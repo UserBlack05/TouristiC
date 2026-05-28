@@ -1,2 +1,2 @@
-# TouristiC
-Application de tourisme
+# projet_tourisme
+application de tourisme
